@@ -27,7 +27,7 @@
 
 ## 🚀 在线试玩
 
-<https://USERNAME.github.io/tank-battle/>（GitHub Pages）
+<https://wudiyukkkkkkki.github.io/tank-battle/>（GitHub Pages）
 
 ## 📁 本地运行
 
